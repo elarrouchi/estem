@@ -1,4 +1,4 @@
-pandas
-Flask
-numpy
 gunicorn
+Flask
+pandas
+numpy
